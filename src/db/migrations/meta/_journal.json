@@ -15,6 +15,13 @@
       "when": 1752064940190,
       "tag": "0001_bizarre_shiver_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752086423320,
+      "tag": "0002_salty_wither",
+      "breakpoints": true
     }
   ]
 }
